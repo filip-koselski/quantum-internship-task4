@@ -1,4 +1,5 @@
-# Quantum Internship Task 4 - Soil Erosion Detection on Sentinel2 Tile
+# Quantum Internship Data Science 
+# Task 4 - Soil Erosion Detection on Sentinel2 Tile
 
 * The main goal of this task is to train model for erosion detection having satellite image and 
 * ```requirements.txt``` contains all used libraries
